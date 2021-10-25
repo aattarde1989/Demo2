@@ -1,0 +1,4 @@
+name
+pass
+email
+contact no.
